@@ -3,7 +3,7 @@ import React from "react";
 function HeroSection() {
   return (
     <>
-      <div className="h-screen bg-purple-300  flex items-center flex-col md:px-[20rem]   p-[5rem] ">
+      <div className="h-screen bg-purple-200  flex items-center flex-col md:px-[20rem]   p-[5rem] ">
         <h1 className=" text-4xl md:text-8xl  text-center font-bold tracking-tight text-gray-900 mt-[8rem]">
           Offset your CO2 emissions reliably, in Europe
         </h1>

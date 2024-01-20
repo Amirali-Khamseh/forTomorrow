@@ -3,7 +3,7 @@ import React from "react";
 export default function Header() {
   return (
     <>
-      <nav className="bg-purple-100">
+      <nav className="bg-purple-200">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <a
             href="https://flowbite.com/"
