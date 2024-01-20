@@ -5,4 +5,4 @@
 [[headers]]
   for = "/*.woff2"
   [headers.values]
-    Access-Control-Allow-Origin = ["https://test1.com", "https://test2.com"]
+    Access-Control-Allow-Origin = ["https://test1.com", "https://main--playful-gaufre-c2dac7.netlify.app/"]
