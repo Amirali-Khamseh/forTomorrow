@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "CentraNo2";
+  src: url("/assets/CentraNo2-Medium.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+* {
+  font-family: "CentraNo2";
+}
