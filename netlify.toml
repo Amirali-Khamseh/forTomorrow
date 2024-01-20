@@ -1,0 +1,8 @@
+[[edge_functions]]
+  path = "/*.woff2"
+  function = "hotlink"
+
+[[headers]]
+  for = "/*.woff2"
+  [headers.values]
+    Access-Control-Allow-Origin = ["https://test1.com", "https://test2.com"]
