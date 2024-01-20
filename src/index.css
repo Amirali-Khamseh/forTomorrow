@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "CentraNo2";
-  src: url("/assets/CentraNo2-Medium.woff2") format("woff2");
+  src: url("./Font/CentraNo2-Medium.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
 }
