@@ -1,3 +1,2 @@
-.woff2 {
-  Access-Control-Allow-Origin = ["https://example1.com", "https://example2.com"]
-}
+/:font.woff2
+Access-Control-Allow-Origin: https://allowed-domain.com
