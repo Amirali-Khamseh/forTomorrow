@@ -12,3 +12,8 @@
 * {
   font-family: "CentraNo2";
 }
+
+iframe {
+  font-family: "CentraNo2" !important;
+  src: url("./Font/CentraNo2-Medium.woff2") format("woff2");
+}

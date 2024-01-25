@@ -1,8 +1,4 @@
-[[edge_functions]]
-  path = "/*.woff2"
-  function = "hotlink"
-
 [[headers]]
   for = "/*.woff2"
   [headers.values]
-    Access-Control-Allow-Origin = ["https://test1.com", "https://main--playful-gaufre-c2dac7.netlify.app/"]
+    Access-Control-Allow-Origin = "*"

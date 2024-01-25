@@ -3,7 +3,7 @@ import React from "react";
 function HeroSection() {
   return (
     <>
-      <div className="h-screen bg-purple-200  flex items-center flex-col md:px-[20rem]   p-[5rem] ">
+      <div className="h-full bg-purple-200  flex items-center flex-col md:px-[20rem]   p-[5rem] ">
         <h1 className=" text-4xl md:text-8xl  text-center font-bold tracking-tight text-gray-900 mt-[8rem]">
           Offset your CO2 emissions reliably, in Europe
         </h1>
@@ -27,25 +27,25 @@ function HeroSection() {
           >
             <span>For organizations</span>
             <svg
-              xmlns:xlink="http://www.w3.org/1999/xlink"
+              xmlnsXlink="http://www.w3.org/1999/xlink"
               xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
+              ariaHidden="true"
               width="20"
               height="20"
               viewBox="0 0 24 24"
               focusable="false"
-              class="icon icon--chevron-right "
+              className="icon icon--chevron-right "
               fill="none"
               stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
+              strokeWidth="2"
+              strokeLineCap="round"
+              strokeLineJoin="round"
             >
               <polyline
                 points="9 18 15 12 9 6"
                 stroke="#F8FFF9"
                 fill="none"
-                stroke-width="2px"
+                strokeWidth="2px"
               ></polyline>
             </svg>
           </a>

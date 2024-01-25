@@ -11,14 +11,14 @@ export default function Header() {
           >
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white hover:scale-125 transition-all ease-in-out ">
               <svg
-                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlnsXlink="http://www.w3.org/1999/xlink"
                 xmlns="http://www.w3.org/2000/svg"
                 width="208"
                 height="50"
                 viewBox="0 0 408 77"
                 fill="none"
-                class="width-auto"
-                aria-label="ForTomorrow logo"
+                className="width-auto"
+                ariaLabel="ForTomorrow logo"
                 role="presentation"
               >
                 <g fill="#502C9E">
@@ -58,36 +58,36 @@ export default function Header() {
             >
               Climate subscriptions
               <svg
-                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlnsXlink="http://www.w3.org/1999/xlink"
                 xmlns="http://www.w3.org/2000/svg"
-                aria-hidden="true"
+                ariaHidden="true"
                 width="20"
                 height="20"
                 viewBox="0 0 24 24"
                 focusable="false"
-                class="icon icon--chevron-right "
+                className="icon icon--chevron-right "
                 fill="none"
                 stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="2"
+                strokeLineCap="round"
+                strokeLineJoin="round"
               >
                 <polyline
                   points="9 18 15 12 9 6"
                   stroke="#F8FFF9"
                   fill="none"
-                  stroke-width="2px"
+                  strokeWidth="2px"
                 ></polyline>
               </svg>
             </button>
             <button
-              data-collapse-toggle="navbar-cta"
+              dataCollapseToggle="navbar-cta"
               type="button"
-              class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-              aria-controls="navbar-cta"
-              aria-expanded="false"
+              className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+              ariaControls="navbar-cta"
+              ariaExpanded="false"
             >
-              <span class="sr-only">Open main menu</span>
+              <span className="sr-only">Open main menu</span>
               <svg
                 className="w-5 h-5"
                 aria-hidden="true"
